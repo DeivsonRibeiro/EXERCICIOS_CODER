@@ -16,4 +16,4 @@ console.log(resultado(7.1))
 
 // Imprime no console o resultado da função passando 5.3
 // Como 5.3 é menor que 7, retorna "Reprovado"
-console.log(resultado(5.3))
+console.log(resultado(5.3)) 
