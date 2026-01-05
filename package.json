@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/DeivsonRibeiro/EXERCICIOS_CODER#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "node-schedule": "^2.1.1"
   }
 }
