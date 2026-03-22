@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "DEIVSON MAGOS RIBEIRO",
+      "email": "deivsonmagosr18@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Pedro ",
+      "email": "deivsonmagosr18@gmail.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
